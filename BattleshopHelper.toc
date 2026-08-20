@@ -1,0 +1,8 @@
+## Interface: 70300
+## Title: Battleshop Helper
+## Notes: Battle shop replacement with live try-on - your character model, stat tooltips, and purchases.
+## Author: Praevius
+## Version: 2.2
+## SavedVariables: BattleshopHelperDB
+
+BattleshopHelper.lua
